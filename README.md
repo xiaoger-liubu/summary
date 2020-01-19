@@ -12,7 +12,7 @@
     * 04.IO
   * 02.mysql
   * 03.spring
-    * 01.[Spring IOC/DI概念]([https://github.com/xiaoger-liubu/summary/blob/master/01.java%E6%8A%80%E6%9C%AF%E6%A0%88/03.spring/01.Spring%20IOCDI%E6%A6%82%E5%BF%B5.md](https://github.com/xiaoger-liubu/summary/blob/master/01.java技术栈/03.spring/01.Spring IOCDI概念.md))
+    * 01.[Spring IOC/DI概念](https://github.com/xiaoger-liubu/summary/blob/master/01.java技术栈/03.spring/01.Spring IOCDI概念.md)
     * 02.AOP
   * 04.springboot
   * 05.cache
